@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "2b30",
+      "name": "Shaheenur Rahman M",
+      "email": "aaa@a.com",
+      "password": "555",
+      "bloodType": "A+",
+      "location": "Coimbatore"
+    },
+    {
+      "id": "0076",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "dc71",
+      "name": "Sanjael Raja",
+      "email": "sr@gmail.com",
+      "password": "333",
+      "bloodType": "A+",
+      "location": "Trichy"
+    },
+    {
+      "id": "954b",
+      "name": "Saifullah",
+      "email": "sa@gmail.com",
+      "password": "12345",
+      "bloodType": "A+",
+      "location": "Mayiladuthurai"
+    },
+    {
+      "id": "0214",
+      "name": "Saravanakumar M",
+      "email": "saravana1703@gmail.com",
+      "password": "123456",
+      "bloodType": "B+",
+      "location": "Tirupur"
+    },
+    {
+      "id": "d197",
+      "name": "SUJAN G",
+      "email": "gsujan2005@gmail.com",
+      "password": "Sujan@123"
+    },
+    {
+      "id": "fe4c",
+      "name": "Vijay",
+      "email": "vv@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
